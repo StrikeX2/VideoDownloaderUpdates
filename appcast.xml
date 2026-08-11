@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>VideoDownloader Update</title>
+        <link>https://strikex2.github.io/Videodownloader/appcast.xml</link>
+        <description>Updates for VideoDownloader</description>
+    </channel>
+</rss>
