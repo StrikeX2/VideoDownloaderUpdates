@@ -5,5 +5,21 @@
         <title>VideoDownloader Update</title>
         <link>https://strikex2.github.io/VideoDownloaderUpdates/appcast.xml</link>
         <description>Updates for VideoDownloader</description>
+
+        <item>
+            <title>VideoDownloader v0.3.0-alpha</title>
+
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+
+            <pubDate>Tue, 11 Aug 2026 18:00:00 +0800</pubDate>
+
+            <enclosure
+                url="https://github.com/StrikeX2/VideoDownloader/releases/download/v0.3.0-alpha/VideoDownloader.dmg"
+                sparkle:edSignature="78f+1/+coYPXhK79vE3cvURwVE8jL1cs8KDmVNbkRVo="
+                length="123412480"
+                type="application/octet-stream" />
+        </item>
+
     </channel>
 </rss>
