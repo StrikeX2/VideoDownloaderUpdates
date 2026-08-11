@@ -1,11 +1,3 @@
-# Videodownloader
-A simple video downloader for Mac, no ads, no pop ups, no subscriptions, nothing. It just works.
+# Automatically updates video downloader
 
-
-
-
-
-
-
-And whatever you do,
-don't antagonise the button.
+look its my first time doin this so i wasnt sure about where to do repositorys
