@@ -12,12 +12,12 @@
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
 
-            <pubDate>Wed, 12 Aug 2026 9:30:00 +0800</pubDate>
+            <pubDate>Wed, 12 Aug 2026 9:50:00 +0800</pubDate>
 
             <enclosure
                 url="https://github.com/StrikeX2/VideoDownloader/releases/download/v0.3.1-alpha/VideoDownloader.dmg"
                 sparkle:edSignature="78f+1/+coYPXhK79vE3cvURwVE8jL1cs8KDmVNbkRVo="
-                length="123179154"
+                length="123179144"
                 type="application/octet-stream" />
         </item>
 
