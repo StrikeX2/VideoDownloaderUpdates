@@ -7,17 +7,17 @@
         <description>Updates for VideoDownloader</description>
 
         <item>
-            <title>VideoDownloader v0.3.0-alpha</title>
+            <title>VideoDownloader v0.3.1-alpha</title>
 
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
 
-            <pubDate>Tue, 11 Aug 2026 18:00:00 +0800</pubDate>
+            <pubDate>Wed, 12 Aug 2026 9:30:00 +0800</pubDate>
 
             <enclosure
-                url="https://github.com/StrikeX2/VideoDownloader/releases/download/v0.3.0-alpha/VideoDownloader.dmg"
+                url="https://github.com/StrikeX2/VideoDownloader/releases/download/v0.3.1-alpha/VideoDownloader.dmg"
                 sparkle:edSignature="78f+1/+coYPXhK79vE3cvURwVE8jL1cs8KDmVNbkRVo="
-                length="71686270"
+                length="123179154"
                 type="application/octet-stream" />
         </item>
 
