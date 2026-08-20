@@ -1,35 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+
     <channel>
         <title>VideoDownloader v0.4.0-alpha</title>
         <link>https://strikex2.github.io/VideoDownloaderUpdates/appcast.xml</link>
         <description>Updates for VideoDownloader</description>
 
-        <!-- LATEST v0.4.0-alpha -->
         <item>
             <title>VideoDownloader v0.4.0-alpha</title>
             <pubDate>Thu, 20 Aug 2026 14:25:00 +0800</pubDate>
+
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure 
-                url="https://github.com/StrikeX2/VideoDownloader/releases/download/v0.4.0-alpha/VideoDownloader_v0.4.0-alpha.dmg" 
+
+            <enclosure
+                url="https://github.com/StrikeX2/VideoDownloader/releases/download/v0.4.0-alpha/VideoDownloader_v0.4.0-alpha.dmg"
                 sparkle:edSignature="afJlEvmtzlyBfr9ZCVMY9VO2Y9jAadhhSDyNryQgoegp/l+VgnSUXg86AHCKOMziHhcs15glJYrLeCvVeJkEAw=="
-                length="65863361" 
+                length="65863361"
                 type="application/octet-stream"/>
         </item>
 
-        <!-- v0.3.1-alpha -->
-        <item>
-            <title>VideoDownloader v0.3.1-alpha</title>
-            <pubDate>Wed, 12 Aug 2026 10:20:00 +0800</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
-            <enclosure
-                url="https://github.com/StrikeX2/VideoDownloader/releases/download/v0.3.1-alpha/VideoDownloader.dmg"
-                sparkle:edSignature="pKcm7hHtG7UI3PKZQqGl4+CLf/VCxdiNqheA4Yo8jqzqEyiNov0+8w6OEAGuXz8MeB2VxvWJijDjrt8JuroJCA="
-                length="71482623"
-                type="application/octet-stream" />
-        </item>
     </channel>
 </rss>
