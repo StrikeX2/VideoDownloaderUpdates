@@ -12,7 +12,7 @@
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/StrikeX2/VideoDownloader/releases/download/v0.4.0/VideoDownloader_v0.4.0.dmg" length="65863374" type="application/octet-stream" sparkle:edSignature="oPu84k4AoMQNlcZoSlbs/FPXDY/flBRnLdqWRuQYVO59lII2ZSgkUcd2VoTlP6Fw0nXQeaJrcSKnuMQ0q299Dw=="/>
+            <enclosure url="https://github.com/StrikeX2/VideoDownloader/releases/download/v0.4.0-alpha/VideoDownloader_v0.4.0.dmg" length="65863374" type="application/octet-stream" sparkle:edSignature="oPu84k4AoMQNlcZoSlbs/FPXDY/flBRnLdqWRuQYVO59lII2ZSgkUcd2VoTlP6Fw0nXQeaJrcSKnuMQ0q299Dw=="/>
         </item>
 
          
