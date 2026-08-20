@@ -17,8 +17,7 @@
 
             <enclosure
                 url="https://github.com/StrikeX2/VideoDownloader/releases/download/v0.4.0-alpha/VideoDownloader_v0.4.0-alpha.dmg"
-                sparkle:edSignature="afJlEvmtzlyBfr9ZCVMY9VO2Y9jAadhhSDyNryQgoegp/l+VgnSUXg86AHCKOMziHhcs15glJYrLeCvVeJkEAw=="
-                length="65863361"
+                sparkle:edSignature="afJlEvmtzlyBfr9ZCVMY9VO2Y9jAadhhSDyNryQgoegp/l+VgnSUXg86AHCKOMziHhcs15glJYrLeCvVeJkEAw==" length="65863361"
                 type="application/octet-stream"/>
         </item>
 
